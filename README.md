@@ -1,3 +1,27 @@
+<p align="left">
+    <a href="https://github.com/ishtiaqhimel/">
+        <img alt="Kubernetes" src="https://img.shields.io/badge/kubernetes%20-%23326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white"/>
+    </a>
+    <a href="https://github.com/ishtiaqhimel/">
+        <img alt="Go" src="https://img.shields.io/badge/go-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white"/>
+    </a>
+    <!-- <a href="https://stackoverflow.com/users/19911090/md-ishtiaq-islam">
+        <img  alt="StackOverflow" src="https://stackoverflow-badge.vercel.app/?userID=19911090" />
+    </a> -->
+    <a href="https://codeforces.com/profile/IshtiaQ99">
+        <img alt="Codeforces" src="https://cp-logo.vercel.app/codeforces/IshtiaQ99"/>
+    </a>
+    <a href="https://www.codechef.com/users/venom_777">
+        <img alt="Go" src="https://cp-logo.vercel.app/codechef/venom_777"/>
+    </a>
+    <!-- <a href="https://visitor-badge.laobi.icu/">
+        <img alt="Open Source Love" src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103" />
+    </a> -->
+    <a href="https://github.com/ellerbrock/open-source-badges/">
+        <img  alt="visitors" src="https://visitor-badge.laobi.icu/badge?page_id=ishtiaqhimel" />
+    </a>
+</p>
+
 ### Hi there! I'm Ishtiaq 👋
 
 - 🔭 I’m currently working @AppsCode
